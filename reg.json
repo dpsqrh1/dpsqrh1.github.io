@@ -1,1 +1,1 @@
-{"client_id": "CLIENTIDMARK123", "client_secret": "CLIENTSECRETMARK456", "registration_client_uri": "https://dpsqrh1.github.io/rcu", "client_id_issued_at": 1700000000, "extra_field": "EXTRAMARK789", "redirect_uris": ["https://dpsqrh1.github.io/cb"]}
+{"client_id": "REGCID_LEAK", "client_secret": "REGSEC_NOLEAK", "client_uri": "CLIENTURI_LEAK", "extra": "REGEXTRA_NOLEAK"}
