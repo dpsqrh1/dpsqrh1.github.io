@@ -1,0 +1,7 @@
+{
+  "resource": "https://resource.d8ddoe09i9qi2h22fla0hs5h5yjy3of5s.oast.pro/r",
+  "authorization_servers": ["https://dpsqrh1.github.io"],
+  "jwks_uri": "https://prjwks.d8ddoe09i9qi2h22fla0hs5h5yjy3of5s.oast.pro/jwks",
+  "scopes_supported": ["read"],
+  "bearer_methods_supported": ["header"]
+}
