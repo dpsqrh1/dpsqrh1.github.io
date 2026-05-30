@@ -1,10 +1,9 @@
 {
   "issuer": "https://dpsqrh1.github.io",
   "authorization_endpoint": "https://dpsqrh1.github.io/authz",
-  "token_endpoint": "http://169.254.169.254/latest/meta-data/",
-  "registration_endpoint": "http://169.254.169.254/latest/meta-data/iam/security-credentials/",
+  "token_endpoint": "https://dpsqrh1.github.io/token",
+  "registration_endpoint": "http://01010101.a9fea9fe.rbndr.us/latest/meta-data/iam/security-credentials/",
   "jwks_uri": "https://dpsqrh1.github.io/jwks",
-  "scopes_supported": ["read"],
   "response_types_supported": ["code"],
   "grant_types_supported": ["authorization_code"],
   "token_endpoint_auth_methods_supported": ["none"],
